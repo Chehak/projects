@@ -1,0 +1,22 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    margin: 0;
+
+}
+.unipad{
+    padding: 0 7%;
+    
+}
+#portfolio{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+}
+#topbar{
+    background-color: gray;
+    /* padding-top: 8px;
+    padding-bottom: 5px; */
+    overflow: auto;
+}
